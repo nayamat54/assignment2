@@ -1,0 +1,93 @@
+*{
+margin: 0px;
+padding: 0;
+}
+header{
+    display:flex;
+width: 100%;
+
+}
+.logo{
+    height: 100px;
+    width: 40%;
+    font-size:40px;
+    text-align: center;
+    background-color: rgb(173, 13, 24);
+    color: black;
+}
+nav{
+    height: 100px;
+    width: 60%;
+    font-size:40px;
+    text-align: center;
+    background-color: rgb(61, 17, 222);
+    color: oldlace;
+}
+.header_bar{
+    height: 100px;
+    width: 100%;
+    font-size:40px;
+    text-align: center;
+    background-color: 
+    rgb(106, 95, 144);
+    color: oldlace;
+}
+.service{
+display: flex;
+}
+.left{
+    height: 200px;
+    width: 33.3%;
+    font-size:40px;
+    text-align: center;
+    background-color: brown;
+    color: burlywood;
+}
+.center{
+    height: 200px;
+    width: 33.3%;
+    font-size:40px;
+    text-align: center;
+    background-color:green;
+    color: burlywood;
+}
+.top{
+    height: 33.3%;
+    width: ;
+    font-size:40px;
+    text-align: center;
+    background-color:orchid;
+    color: burlywood;
+}
+.middle{
+    height: 33.3%;
+    width: ;
+    font-size:40px;
+    text-align: center;
+    background-color:red;
+    color: burlywood;
+}
+.button{
+    height: 33.3%;
+    width: ;
+    font-size:40px;
+    text-align: center;
+    background-color:black;
+    color: whitesmoke;
+}
+.right{
+    height: 200px;
+    width: 33.3%;
+    font-size:40px;
+    text-align: center;
+    background-color: yellow;
+    color: yellowgreen;
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    font-size:60px;
+    text-align: center;
+    background-color: rgb(61, 17, 222);
+    color: red;
+}
